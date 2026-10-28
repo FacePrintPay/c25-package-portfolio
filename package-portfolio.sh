@@ -256,3 +256,5 @@ echo "📧 kre8tivekonceptz@gmail.com"
 echo ""
 # Open in browser
 command -v termux-open-url &> /dev/null && termux-open-url "file://$PORTFOLIO/index.html"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=package-portfolio.sh
